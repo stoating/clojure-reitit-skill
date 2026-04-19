@@ -1,0 +1,17 @@
+{
+  "name": "clojure-reitit-skill",
+  "metadata": {
+    "description": "Clojure/ClojureScript Reitit skill set for AI coding agents — route syntax, Ring router, middleware, coercion (malli/spec/schema), OpenAPI/Swagger docs, frontend browser routing, and interceptors."
+  },
+  "owner": {
+    "name": "stoating"
+  },
+  "plugins": [
+    {
+      "name": "clojure-reitit",
+      "source": "./",
+      "description": "Clojure/ClojureScript Reitit skill — route syntax, Ring router, middleware, coercion (malli/spec/schema), OpenAPI/Swagger docs, frontend browser routing, and interceptors.",
+      "version": "0.1.0"
+    }
+  ]
+}
