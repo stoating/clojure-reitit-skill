@@ -40,7 +40,7 @@ Routes are **pure data** — a nested vector of `[path ?data & children]`. A `ro
 | `metosin/reitit-spec` | clojure.spec / data-specs coercion |
 | `metosin/reitit-malli` (via `reitit`) | Malli coercion |
 | `metosin/reitit-swagger` | Swagger 2 docs |
-| `metosin/reitit-openapi` | OpenAPI 3 docs |
+| `fi.metosin/reitit-openapi` | OpenAPI 3 docs |
 | `metosin/reitit-swagger-ui` | Integrated Swagger UI |
 | `metosin/reitit-frontend` | ClojureScript frontend routing |
 | `metosin/reitit-http` | Pedestal-style interceptor routing |
