@@ -37,7 +37,7 @@ Pick the section matching your agent.
 
 ```
 /plugin marketplace add stoating/clojure-reitit-skill
-/plugin install clojure-reitit@clojure-reitit-skill
+/plugin install reitit@clojure-reitit-skill
 ```
 
 Once installed, invoke it with:
@@ -54,7 +54,7 @@ To update later:
 
 ```
 /plugin marketplace add stoating/plugins
-/plugin install clojure-reitit@stoating
+/plugin install reitit@stoating
 ```
 
 ### C) Claude Code (manual copy)
