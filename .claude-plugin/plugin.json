@@ -1,6 +1,5 @@
 {
   "name": "reitit",
   "description": "Clojure/ClojureScript Reitit skill — route syntax, Ring router, middleware, coercion (malli/spec/schema), OpenAPI/Swagger docs, frontend browser routing, and interceptors.",
-  "version": "0.1.0",
-  "skills": "reitit"
+  "version": "0.1.0"
 }
